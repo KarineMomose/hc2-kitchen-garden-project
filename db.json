@@ -1,0 +1,116 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo":"https://static-images.ifood.com.br/image/upload/t_medium/pratos/d2e9e8ae-037f-49a3-9e65-38a60c6a183b/202105311340_U16E_.jpeg",
+            "name": "Mac'n Cheese ",
+            "description":"Rigatone ao molho aveludado de queijo de castanha de caju orgânica,finalizado com pangrattato e cogumelos grelhados." ,
+            "price": 59
+        },
+        {
+            "id": 2,
+            "photo":"https://static-images.ifood.com.br/image/upload/t_medium/pratos/d2e9e8ae-037f-49a3-9e65-38a60c6a183b/202008021222_k7gh_c.jpg",
+            "name": "Carbonara",
+            "description":"Bucatini ao carbonara de molho de castanha de caju com sal negro finalizado com queijo parmesão parmesão Basi.Co, bacon e azeite de ervas frescas." ,
+            "price": 50
+        },
+        {
+            "id": 3,
+            "photo":"https://static-images.ifood.com.br/image/upload/t_medium/pratos/d2e9e8ae-037f-49a3-9e65-38a60c6a183b/202103201543_FZP4_.jpeg",
+            "name": "Arroz Caldoso",
+            "description":"Mini arroz arboreo, linguiça vegana de ervas feita na casa, escarola, vegetais finalizado com agrião e aioli trufado." ,
+            "price": 50
+        },
+        {
+            "id": 4,
+            "photo":"https://static-images.ifood.com.br/image/upload/t_medium/pratos/d2e9e8ae-037f-49a3-9e65-38a60c6a183b/202101101418_Ypuj_.jpeg",
+            "name": "Caesar Salad",
+            "description":"Alface romana, molho Caesar, basilicão, salsinha, rabanete laminado, sementes de girassol e abóbora tostadas, lascas de parmesão Basi.Co e Mini Chickenless." ,
+            "price": 36
+        },
+        {
+            "id": 5,
+            "photo":"https://static-images.ifood.com.br/image/upload/t_medium/pratos/d2e9e8ae-037f-49a3-9e65-38a60c6a183b/202004071900_Sb6v_s.jpg",
+            "name": "Sanduíche de Cogumelos",
+            "description":"Mix de cogumelos salteados e temperados com cebola caramelizada, shoyo e missô orgânico servido com maionese feita com castanha de caju orgânica, alho negro e azeite trufado e folhas de rúcula. Servido no pão de fermentação natural" ,
+            "price": 45
+        },
+        {
+            "id": 6,
+            "photo":"https://static-images.ifood.com.br/image/upload/t_medium/pratos/d2e9e8ae-037f-49a3-9e65-38a60c6a183b/202004071854_mEje_s.jpg",
+            "name": "Sanduíche de Cogumelos Com Cheaddar",
+            "description":"Mix de cogumelos salteados e temperados com cebola, shoyo e missô orgânico servido com maionese feita com castanha de caju orgânica, alho negro e azeite trufado, queijo cheddar da casa e folhas de rúcula." ,
+            "price": 38
+        },
+        {
+            "id": 7,
+            "photo":"https://static-images.ifood.com.br/image/upload/t_medium/pratos/d2e9e8ae-037f-49a3-9e65-38a60c6a183b/202105101533_6FU6_.jpeg",
+            "name": "Choripan",
+            "description":"Linguiça vegetal feita na casa com ervas frescas, maionese Basi.Co" ,
+            "price": 43
+        },
+        {
+            "id": 8,
+            "photo":"https://static-images.ifood.com.br/image/upload/t_medium/pratos/d2e9e8ae-037f-49a3-9e65-38a60c6a183b/202105101602_08U4_.jpeg",
+            "name": "Cheese Burguer Single",
+            "description":"Pão, smash burguer feito de plantas 100g, queijo cremoso Basi.Co, picles de pepino da casa e molho ketchup com cebola roxa picada" ,
+            "price": 28
+        },
+        {
+            "id": 9,
+            "photo":"https://static-images.ifood.com.br/image/upload/t_medium/pratos/d2e9e8ae-037f-49a3-9e65-38a60c6a183b/202012111828_RA3e_.jpeg",
+            "name": "Chickenless",
+            "description":"Pão, “frango” empanado 100g feito de plantas, alface, picles e maionese Basi.Co." ,
+            "price": 39
+        },
+        {
+            "id": 10,
+            "photo":"https://static-images.ifood.com.br/image/upload/t_medium/pratos/d2e9e8ae-037f-49a3-9e65-38a60c6a183b/202103192141_X4ew_.jpeg",
+            "name": "Plant raiz",
+            "description":"Pão, burguer de grão de bico Gerônimo 100g, maionese Basi.Co, rúcula, basilicão, tomate assado e tapenade de azeitona preta." ,
+            "price": 37
+        },
+        {
+            "id": 11,
+            "photo":"https://static-images.ifood.com.br/image/upload/t_medium/pratos/d2e9e8ae-037f-49a3-9e65-38a60c6a183b/202012111815_9Jt4_.jpeg",
+            "name": "Plant cheese burguer",
+            "description":"Pão, burguer feito de plantas 100g, queijo cremoso Basi.Co, picles de pepino da casa e ketchup com cebola roxa feito na casa." ,
+            "price": 33
+        },
+        {
+            "id": 12,
+            "photo":"https://static-images.ifood.com.br/image/upload/t_medium/pratos/d2e9e8ae-037f-49a3-9e65-38a60c6a183b/202102042125_T5gH_.jpeg",
+            "name": "Pizza 2 queijos",
+            "description":"Pizza vegana, molho de tomate, queijo muçarela Basico e cajupiry Basico." ,
+            "price": 61
+        },
+        {
+            "id": 13,
+            "photo":"https://static-images.ifood.com.br/image/upload/t_medium/pratos/d2e9e8ae-037f-49a3-9e65-38a60c6a183b/202102042124_1nUa_.jpeg",
+            "name": "Pizza Baianeira",
+            "description":"Pizza vegana, molho de tomate, linguiça de gorgonzola, basilicão e azeitona preta, pimenta jalapeno, cebola caramelizada, cajupiry Basico e folha de mostarda" ,
+            "price": 69
+        },
+        {
+            "id": 14,
+            "photo":"https://static-images.ifood.com.br/image/upload/t_medium/pratos/d2e9e8ae-037f-49a3-9e65-38a60c6a183b/202102042125_GdzL_.jpeg",
+            "name": "Pizza caprese",
+            "description":"Pizza vegana, molho de tomate, muçarela Basi.Co, rodelas de tomate, burrata, basilicão, tapenade de azeitona preta. Insumos orgânicos, sempre que possível." ,
+            "price": 69
+        },
+        {
+            "id": 15,
+            "photo":"https://static-images.ifood.com.br/image/upload/t_medium/pratos/d2e9e8ae-037f-49a3-9e65-38a60c6a183b/202102042126_gwB8_.jpeg",
+            "name": "Pizza de cogumelos",
+            "description":"Pizza vegana, molho de tomate, muçarela basi.co, mix de cogumelos, cebola caramelizada, cajupiry basi.co, cebolinha. Insumos orgânicos, sempre que possível" ,
+            "price": 73
+        },
+        {
+            "id": 16,
+            "photo":"https://static-images.ifood.com.br/image/upload/t_medium/pratos/d2e9e8ae-037f-49a3-9e65-38a60c6a183b/202102042127_ftrr_.jpeg",
+            "name": "Pizza de abobrinha marinada",
+            "description":"Pizza vegana com molho de tomate, muçarela Basi.Co, abobrinha marinada, tomate grape, ricota de tofu orgânico, chimichurri. Insumos orgânicos, sempre que possível" ,
+            "price": 59
+        }
+    ]
+}
